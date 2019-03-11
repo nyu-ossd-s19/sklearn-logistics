@@ -10,4 +10,4 @@ List your three strengths
 * Cole
   - Sklearn: 3
   - Python: 3
-  - Stengths: ML, Statistics, GPU Programming
+  - Strengths: ML, Statistics, GPU Programming
