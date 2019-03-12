@@ -18,4 +18,7 @@ List your three strengths
   - Python: 3
   - Strengths: Stats, Data Analysis 
 
-
+* Grace
+  - Sklearn: 2
+  - Python: 3
+  - Strengths: Data management & analysis
