@@ -21,4 +21,9 @@ List out your ideas for Wednesday's presentation
 
   - **Total Open Issues**: 1,222 (as of Mar 8th)
 
+
 * what is your plan for getting started
+  - identify and leverage the best means of communication suitable for all team members 
+  - explore issues and identify those for beginners/newcomers to start contributing 
+  - divide issues not just according by strengths but by interests and time to ensure fairness and maintain a level playing field 
+  - move on to harder issues once all team members get used to contributing 
