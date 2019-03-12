@@ -22,3 +22,8 @@ List your three strengths
   - Sklearn: 2
   - Python: 3
   - Strengths: Data management & analysis
+  
+* Will
+  - Sklearn: 1
+  - Python: 2
+  - Strength: I will find it... 
