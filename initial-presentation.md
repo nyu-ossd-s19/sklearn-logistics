@@ -8,6 +8,9 @@ List out your ideas for Wednesday's presentation
   - built on top of numpy, scipy, matplotlib
 
 * why you picked that particular project
+  - interest in Python and wish to improve upon it 
+  - the project has 'Good First Issue' or 'easy' bug to work on 
+  - the community seems responsive and open for suggestion
 
 * how the group assessed the health of the project
 
