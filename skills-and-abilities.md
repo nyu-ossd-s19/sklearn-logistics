@@ -26,4 +26,4 @@ List your three strengths
 * Will
   - Sklearn: 1
   - Python: 2
-  - Strength: I will find it... 
+  - Strength: Data Structure
