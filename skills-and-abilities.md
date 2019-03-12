@@ -11,3 +11,11 @@ List your three strengths
   - Sklearn: 3
   - Python: 3
   - Strengths: ML, Statistics, GPU Programming
+
+
+* Yuvi (Yuvraj)
+  - Sklearn: 1
+  - Python: 3
+  - Strengths: Stats, Data Analysis 
+
+
