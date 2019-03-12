@@ -3,6 +3,9 @@ List out your ideas for Wednesday's presentation
 
 
 * what the project is about
+  - a Python module for machine learning
+  - has tools for data mining and analysis
+  - built on top of numpy, scipy, matplotlib
 
 * why you picked that particular project
 
