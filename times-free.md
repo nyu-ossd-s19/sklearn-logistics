@@ -13,3 +13,11 @@
 * Fridays: Unavailable
 
 * Weekends: Available
+
+### WIll
+
+* Mondays: After class
+
+* Tuesday: after 5:00
+
+* Thursday: Unavailable until 9:00
