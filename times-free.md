@@ -21,3 +21,13 @@
 * Tuesday: after 5:00
 
 * Thursday: Unavailable until 9:00
+
+### Grace
+
+* Mondays/Wednesdays: after class
+
+* Tuesdays/Thursdays: after 3:30
+
+* Fridays: unavailable
+
+* Weekends: potentially available
