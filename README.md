@@ -11,3 +11,11 @@ https://gitter.im/sklearn-at-nyu/community
 * Grace Yang
 * Won Jong Yang
 * Yuvraj Chugh
+
+# Meeting Time
+
+Mondays, after class.
+
+# For currently resolving issues:
+
+[Issues On Deck](https://github.com/nyu-ossd-s19/sklearn-logistics/blob/master/issues-on-deck.md)
