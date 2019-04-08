@@ -8,6 +8,20 @@
 
 # Current Issues Resolving
 
+* [TODOs in Glossary](https://github.com/scikit-learn/scikit-learn/issues/13533)
+
+   - Dtype Precision (ON HOLD)
+
+   - Kernel Definition (Cole)
+
+   - Density Estimation Definition (Won Jong)
+
+   - `score_samples` API function (Yuvraj)
+   
+   - Mutlilabel Classification Clarification (Grace)
+
 ## Issues We Opened
 
 * https://github.com/scikit-learn/scikit-learn/issues/13532
+
+* https://github.com/scikit-learn/scikit-learn/issues/13533
