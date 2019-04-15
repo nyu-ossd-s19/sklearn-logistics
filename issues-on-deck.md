@@ -6,6 +6,8 @@
 
 * Resolving CI errors like [this one](https://github.com/scikit-learn/scikit-learn/pull/4790)
 
+* Creating or adding demos for lesser-used estimators or algorithms
+
 # Current Issues Resolving
 
 * [TODOs in Glossary](https://github.com/scikit-learn/scikit-learn/issues/13533)
