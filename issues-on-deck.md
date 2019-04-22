@@ -7,6 +7,7 @@
 * Resolving CI errors like [this one](https://github.com/scikit-learn/scikit-learn/pull/4790)
 
 * Creating or adding demos for lesser-used estimators or algorithms
+   - `sklearn.ensemble.BaggingClassifier`
 
 # Current Issues Resolving
 
