@@ -20,19 +20,22 @@ Some sections are also completely blank, and we aim to complete those sections.
 * **ON HOLD**: Dtype Precision Clarification
 
 
-## Contribution Name
+## Examples for Lesser-Known Estimators
 
-[Issue](www.google.com)
+[Issue](https://github.com/scikit-learn/scikit-learn/issues/13710)
 |
-[PR](www.google.com)
+PR
 
 #### Overview
 
-[Breif Overview]
+Estimators that have very specific uses, or otherwise are not often implemented,
+do not have any examples of their usage, or comparison to other estimators.
+
+We intend to add examples and comparisons to these estimators in a single Pull Request.
 
 #### Tasks Completed
 
-* Cole Smith: [Task 1]
-* Grace Yang: [Task 2]
-* Won Jong Yang: [Task 3]
-* Yuvraj Chugh: [Task 4]
+* Cole Smith: `BaggingClassifier` Example and Comparison to AdaBoost
+* Grace Yang: `BaggingClassifier` Example (Code)
+* Won Jong Yang: <Please add what you are working on here>
+* Yuvraj Chugh: <Please add what you are working on here>
