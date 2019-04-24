@@ -28,3 +28,5 @@
 * https://github.com/scikit-learn/scikit-learn/issues/13532
 
 * https://github.com/scikit-learn/scikit-learn/issues/13533
+
+* https://github.com/scikit-learn/scikit-learn/issues/13710
