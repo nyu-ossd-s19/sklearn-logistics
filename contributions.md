@@ -37,5 +37,5 @@ We intend to add examples and comparisons to these estimators in a single Pull R
 
 * Cole Smith: `BaggingClassifier` Example and Comparison to AdaBoost
 * Grace Yang: `BaggingClassifier` Example (Code)
-* Won Jong Yang: <Please add what you are working on here>
-* Yuvraj Chugh: <Please add what you are working on here>
+* Won Jong Yang: Please add what you are working on here
+* Yuvraj Chugh: Please add what you are working on here
