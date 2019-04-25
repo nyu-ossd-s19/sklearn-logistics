@@ -3,7 +3,7 @@
 
 [Issue](https://github.com/scikit-learn/scikit-learn/issues/13533)
 |
-PR
+[PR](https://github.com/scikit-learn/scikit-learn/pull/13660)
 
 #### Overview
 
@@ -38,4 +38,4 @@ We intend to add examples and comparisons to these estimators in a single Pull R
 * Cole Smith: `BaggingClassifier` Example and Comparison to AdaBoost
 * Grace Yang: `BaggingClassifier` Example (Code)
 * Won Jong Yang: Please add what you are working on here
-* Yuvraj Chugh: Please add what you are working on here
+* Yuvraj Chugh: Fixing first PR (todo comments)
