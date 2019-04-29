@@ -30,3 +30,5 @@
 * https://github.com/scikit-learn/scikit-learn/issues/13533
 
 * https://github.com/scikit-learn/scikit-learn/issues/13710
+
+   - Marked as duplicate for: https://github.com/scikit-learn/scikit-learn/issues/3846
