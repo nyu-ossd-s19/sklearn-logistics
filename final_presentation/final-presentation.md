@@ -1,15 +1,20 @@
-## Sections
-
-### Why did you pick this project? 
+# Sections
 
 
-### Major Contributions
+## Why did you pick this project? 
 
 
-### What impact did your team make on the project?
+
+## Major Contributions
 
 
-### What have you learned?
+
+## What impact did your team make on the project?
 
 
-### If you could go back, would you pick sci-kit again?
+
+## What have you learned?
+
+
+
+## If you could go back, would you pick sci-kit again?
