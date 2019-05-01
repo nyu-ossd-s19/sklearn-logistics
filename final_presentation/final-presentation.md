@@ -34,6 +34,6 @@ I think each of us should have something to say for each section of the presenta
 ***Yuvi:*** 
 
 
-## Why we picked documentation? 
+## Why we chose to focus on documentation? 
 
 ***Yuvi:*** Everyone seems to want to pick code issues. Documentation seems to be a section that goes ignored or prioritized over. We also had to create our own issues so docs were a good start.
