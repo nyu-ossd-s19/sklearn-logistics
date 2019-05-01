@@ -24,7 +24,7 @@ I think each of us should have something to say for each section of the presenta
 ***Yuvi:*** Github stuff, ethics behind OSSD, community spirit (?)
 
 
-## If you could go back, would you pick sci-kit again?
+## If you could go back, would you pick sci-kit again? What did you like/dislike?
 
 ***Yuvi:*** Maybe not. I believe we underestimated how quickly issues get picked up. It was hard to find code-related issues that hadn't been picked up already. 
 
