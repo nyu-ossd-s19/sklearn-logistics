@@ -1,6 +1,9 @@
 # Sections
 
 
+I think each of us should have something to say for each section of the presentation, so we can all add our own notes under the section headings, and compile them later. 
+
+
 ## Why did you pick this project? 
 
 
