@@ -29,6 +29,6 @@ I think each of us should have something to say for each section of the presenta
 ***Yuvi:*** Maybe not. I believe we underestimated how quickly issues get picked up. It was hard to find code-related issues that hadn't been picked up already. 
 
 
-## Problems we ran into 
+## Problems or Challenges (challenge is a better word I guess)
 
 ***Yuvi:*** 
