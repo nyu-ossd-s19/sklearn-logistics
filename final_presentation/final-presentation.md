@@ -32,3 +32,8 @@ I think each of us should have something to say for each section of the presenta
 ## Problems or Challenges (challenge is a better word I guess)
 
 ***Yuvi:*** 
+
+
+## Why we picked documentation? 
+
+***Yuvi:*** Everyone seems to want to pick code issues. Documentation seems to be a section that goes ignored or prioritized over. We also had to create our own issues so docs were a good start.
