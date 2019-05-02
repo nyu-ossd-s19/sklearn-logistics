@@ -31,7 +31,7 @@ I think each of us should have something to say for each section of the presenta
 
 ## Problems or Challenges (challenge is a better word I guess)
 
-***Yuvi:*** 
+***Yuvi:*** Not finding enough issues. Issues getting taken up quickly. 
 
 
 ## Why we chose to focus on documentation? 
