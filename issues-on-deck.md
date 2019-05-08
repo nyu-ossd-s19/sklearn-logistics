@@ -1,3 +1,6 @@
+# Please see contributions.md for our work
+### This file is where we outline our ideas
+
 # Potential Issues for Contribution
 
 * `sklearn.util.resample` is not declared in `__all__`
