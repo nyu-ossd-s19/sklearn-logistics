@@ -1,6 +1,6 @@
 
 
-## Issues We Opened
+# Issues We Opened
 
 * https://github.com/scikit-learn/scikit-learn/issues/13532
 
