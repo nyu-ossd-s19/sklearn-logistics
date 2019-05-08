@@ -1,4 +1,17 @@
 
+
+## Issues We Opened
+
+* https://github.com/scikit-learn/scikit-learn/issues/13532
+
+* https://github.com/scikit-learn/scikit-learn/issues/13533
+
+* https://github.com/scikit-learn/scikit-learn/issues/13710
+
+   - Marked as duplicate for: https://github.com/scikit-learn/scikit-learn/issues/3846
+
+# Pull Requests
+
 ## Documentation: Glossary TODOs
 
 [Issue](https://github.com/scikit-learn/scikit-learn/issues/13533)
@@ -39,3 +52,7 @@ We intend to add examples and comparisons to these estimators in a single Pull R
 * Grace Yang: `BaggingClassifier` Example (Code)
 * Won Jong Yang: Please add what you are working on here
 * Yuvraj Chugh: Fixing first PR (todo comments)
+
+# Discussions
+
+[Feature request: sklearn.decomposition.PCA using the covariance matrix](https://github.com/scikit-learn/scikit-learn/issues/13745)
