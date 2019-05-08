@@ -17,6 +17,8 @@
 [Issue](https://github.com/scikit-learn/scikit-learn/issues/13533)
 |
 [PR](https://github.com/scikit-learn/scikit-learn/pull/13660)
+|
+[Working Branch](https://github.com/nyu-ossd-s19/scikit-learn/tree/glossary-todo-fix)
 
 #### Overview
 
@@ -38,6 +40,8 @@ Some sections are also completely blank, and we aim to complete those sections.
 [Issue](https://github.com/scikit-learn/scikit-learn/issues/13710)
 |
 PR
+|
+[Working Branch](https://github.com/nyu-ossd-s19/scikit-learn/tree/bagging-classifier-examples)
 
 #### Overview
 
