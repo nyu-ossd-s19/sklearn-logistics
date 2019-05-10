@@ -12,9 +12,12 @@
 * Creating or adding demos for lesser-used estimators or algorithms
    - `sklearn.ensemble.BaggingClassifier`
 
+* Fixing advanced installation instructions for Mac OSX
+
+
 # Current Issues Resolving
 
-* [TODOs in Glossary](https://github.com/scikit-learn/scikit-learn/issues/13533)
+* [TODOs in Glossary: AWAITING MERGE](https://github.com/scikit-learn/scikit-learn/issues/13533)
 
    - Dtype Precision (ON HOLD)
 
@@ -26,6 +29,7 @@
    
    - Mutlilabel Classification Clarification (Grace)
 
+
 ## Issues We Opened
 
 * https://github.com/scikit-learn/scikit-learn/issues/13532
@@ -35,3 +39,5 @@
 * https://github.com/scikit-learn/scikit-learn/issues/13710
 
    - Marked as duplicate for: https://github.com/scikit-learn/scikit-learn/issues/3846
+
+* https://github.com/scikit-learn/scikit-learn/issues/13851
