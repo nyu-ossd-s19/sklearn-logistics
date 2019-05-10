@@ -9,6 +9,9 @@
 * https://github.com/scikit-learn/scikit-learn/issues/13710
 
    - Marked as duplicate for: https://github.com/scikit-learn/scikit-learn/issues/3846
+   
+* https://github.com/scikit-learn/scikit-learn/issues/13851
+
 
 # Pull Requests
 
@@ -31,7 +34,7 @@ Some sections are also completely blank, and we aim to complete those sections.
 * Cole Smith: Definition of Kernel method
 * Grace Yang: Mutlilabel Classification Clarification
 * Won Jong Yang: Density Estimation Definition
-* Yuvraj Chugh: `score_samples` API function
+* Yuvraj Chugh: `score_samples` API function, changes according by admin suggestions
 * **ON HOLD**: Dtype Precision Clarification
 
 
@@ -55,7 +58,7 @@ We intend to add examples and comparisons to these estimators in a single Pull R
 * Cole Smith: `BaggingClassifier` Example and Comparison to AdaBoost
 * Grace Yang: `BaggingClassifier` Example (Code)
 * Won Jong Yang: Please add what you are working on here
-* Yuvraj Chugh: Fixing first PR (todo comments)
+* Yuvraj Chugh: Trying to fix advanced installation instructions for Mac OSX users (issue created). Awaiting word on why PR is failing a cloud test
 
 # Discussions
 
